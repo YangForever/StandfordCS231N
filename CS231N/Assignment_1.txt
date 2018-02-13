@@ -1,0 +1,5 @@
+1. K-Nearest Neighbour classifier
+2. Training a Support Vector Machine
+3. Implement a Softmax classifier
+4. Two-Layer Neural Network
+5. Higher Level Representations: Image Features
